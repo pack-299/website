@@ -22,7 +22,7 @@ Pack Meetings are the first Thursday of each month at 6:30pm during the school y
 <p>Potential new members are encouraged to come meet the Pack and Dens and learn about upcoming activities.</p>
 <!-- /wp:paragraph -->
 
-<a href="mailto:{{ site.email | encode_email }}" title="Contact us">Contact us</a> For more info.
+<a href="mailto:pack299@acmay.org?Subject=Pack 299 Info" title="Contact us">Contact us</a> For more info.
 
 <p><a href="https://pack299sandiego.shutterfly.com">Shutterfly</a> is used for private Pack/Den communications</p>
 
