@@ -4,10 +4,12 @@
 
 layout: home
 ---
-Pack Meetings are the first Thursday of each month at 6:30pm during the school year at 
-[Clairmount Covenant Church](https://www.clairemontcov.org/) 5255 Mt. Ararat Dr., San Diego, CA  92111
+![Scout Me In](bs_img/CubsBCCover.jpg)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6706.647713896549!2d-117.18364000000001!3d32.81018300000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc000dc0921005%3A0xb7be219b0ae989e4!2s5255+Mt+Ararat+Dr%2C+San+Diego%2C+CA+92111!5e0!3m2!1sen!2sus!4v1548912102359" style="border:0" allowfullscreen="" width="600" height="450" frameborder="0"></iframe>
+Pack Meetings are the first Thursday of each month at 6:30pm during the school year at 
+[Clairemont Covenant Church](https://www.clairemontcov.org/) 5255 Mt. Ararat Dr., San Diego, CA  92111
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6706.647713896549!2d-117.18364000000001!3d32.81018300000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc000dc0921005%3A0xb7be219b0ae989e4!2s5255+Mt+Ararat+Dr%2C+San+Diego%2C+CA+92111!5e0!3m2!1sen!2sus!4v1548912102359" style="border:0" allowfullscreen="" width="400" height="200" frameborder="0"></iframe>
 
 <p>Grades K-5 all genders are welcomed to join our Pack.</p>
 
@@ -15,8 +17,10 @@ Pack Meetings are the first Thursday of each month at 6:30pm during the school y
 
 <a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Contact us</a> For more info.
 
-<p><a href="https://pack299sandiego.shutterfly.com">Shutterfly</a> is used for private Pack/Den communications</p>
+[Shutterfly](https://pack299sandiego.shutterfly.com) is used for private Pack/Den communications
 
-<p><a href="https://www.strava.com/">Strava</a> is used to track hikes for raffle tickets for a prizes given away at the Pack meetings.<br></p>
+[Imperial Council](http://www.sdicbsa.org/)
 
-<p><a href="http://www.sdicbsa.org/">Imperial Council Site</a></p>
+[National Site](https://www.scouting.org/programs/cub-scouts/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wUZ_yeY9qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
