@@ -6,8 +6,10 @@ layout: home
 ---
 ![Scout Me In](bs_img/CubsBCCover.jpg)
 
-Pack Meetings are the first Thursday of each month at 6:30pm during the school year at 
+Pack Meetings are the second Tuesday of each month at 6:30pm during the school year at 
 [Clairemont Covenant Church](https://www.clairemontcov.org/) 5255 Mt. Ararat Dr., San Diego, CA  92111
+
+August 13, 2019 will be the first meeting of the school year.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6706.647713896549!2d-117.18364000000001!3d32.81018300000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc000dc0921005%3A0xb7be219b0ae989e4!2s5255+Mt+Ararat+Dr%2C+San+Diego%2C+CA+92111!5e0!3m2!1sen!2sus!4v1548912102359" style="border:0" allowfullscreen="" width="400" height="200" frameborder="0"></iframe>
 
@@ -16,6 +18,8 @@ Pack Meetings are the first Thursday of each month at 6:30pm during the school y
 <p>Potential new members are encouraged to come meet the Pack and Dens and learn about upcoming activities.</p>
 
 <a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Contact us</a> For more info.
+
+[Online Registration](https://beascout.scouting.org/list/?zip=92117&program%5B0%5D=pack&cubFilter=all&miles=10&unitID=249742)
 
 [Shutterfly](https://pack299sandiego.shutterfly.com) is used for private Pack/Den communications
 
