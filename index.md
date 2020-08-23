@@ -6,25 +6,36 @@ layout: home
 ---
 ![Scout Me In](bs_img/CubsBCCover.jpg)
 
-Pack Meetings are the second Tuesday of each month at 6:30pm during the school year at 
-[Clairemont Covenant Church](https://www.clairemontcov.org/) 5255 Mt. Ararat Dr., San Diego, CA  92111
+## Covid Update
+In 2020 we are still experimenting on how to handle the ever changing regulations and rules for meetings and events.
 
-August 13, 2019 will be the first meeting of the school year.
+Dens **can have** in person meetings as long as they are outdoors, with masks and hand sanitizer.
+Each Den may have their own combination of in person and virtual meetings.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6706.647713896549!2d-117.18364000000001!3d32.81018300000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc000dc0921005%3A0xb7be219b0ae989e4!2s5255+Mt+Ararat+Dr%2C+San+Diego%2C+CA+92111!5e0!3m2!1sen!2sus!4v1548912102359" style="border:0" allowfullscreen="" width="400" height="200" frameborder="0"></iframe>
+Pack meetings will start the school year with virtual events. TBD second Tuesday of each month at 6:30pm during the school year.
 
-<p>Grades K-5 all genders are welcomed to join our Pack.</p>
+## Membership
 
-<p>Potential new members are encouraged to come meet the Pack and Dens and learn about upcoming activities.</p>
+**Potential new members** are encouraged to meet the Pack and Dens and learn about upcoming activities.
 
-<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Contact us</a> For more info.
+Grades K-5 all genders are welcomed to join our Pack.
 
-[Online Registration](https://beascout.scouting.org/list/?zip=92117&program%5B0%5D=pack&cubFilter=all&miles=10&unitID=249742)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wUZ_yeY9qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for more info.
+
+## External Links
+
+[Online Registration](https://beascout.scouting.org/list/?zip=92117&program%5B0%5D=pack&cubFilter=all&miles=10&unitID=249742) to fill in info online. Click the "Apply Now" button and then the "Create Account" button on the my.scouting.org website.
 
 [Shutterfly](https://pack299sandiego.shutterfly.com) is used for private Pack/Den communications
 
-[Imperial Council](http://www.sdicbsa.org/)
+[San Diego/Imperial Council](http://www.sdicbsa.org/) site has local info and events for Mataguay Scout Ranch, Camp Balboa, and the Youth Aquatic Center on Fiesta Island.
 
-[National Site](https://www.scouting.org/programs/cub-scouts/)
+> The Council is broken down into these [Districts/Zones](https://www.sdicbsa.org/Zones/Images/ZoneMap.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wUZ_yeY9qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> [Costal Sage District/Zone Website](https://coastalsage.sdicbsa.org/)
+
+> [Costal Sage Facebook Group](https://www.facebook.com/CoastalSageBSA/)
+
+[National Site](https://www.scouting.org/programs/cub-scouts/) for information on Cub Scouts in the US and online store.

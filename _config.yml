@@ -16,10 +16,10 @@
 title: Pack 299 of San Diego
 email: "info@pack299sandiego.org"
 description: >- # this means to ignore newlines until "baseurl:"
-  San Diego Cub Scout Pack 299. In the Clairemont neighborhood for over 50 years.
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://pack299.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  acmay
+  San Diego Cub Scout Pack 299. In the Clairemont neighborhood since 1958.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://web.pack299sandiego.org" # the base hostname & protocol for your site, e.g. http://example.com
+#github_username:  pack-299
 
 # Build settings
 markdown: kramdown
