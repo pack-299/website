@@ -15,4 +15,4 @@ This year is a big adjustment for us since it will not be possible to do our nor
 
 [Sales Form](https://www.sdicbsa.org/Popcorn/Docs/1PageOrderForm2020.pdf) for friends, family and neighboors you can contact your scout's family directly to arrange for local delivery options.
 
-
+<a href="mailto:popcorn@pack299sandiego.org?Subject=Pack 299: Popcorn" title="Contact us">Email us</a> for other questions. Response emails may come from a different address.
