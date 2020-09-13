@@ -4,9 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-Members can see [Full Details on Shutterfly](https://pack299sandiego.shutterfly.com/22) for virtual meeting login info.
-
-[National Family Fun Fest](https://www.scouting.org/familyfunfest/) Sept. 12, 2020 on Facebook live. You can register to send your Pinewood Derby Car&reg; by Sept 8 to have a chance to be one of the 500 cars raced at the event.
+Members can see [Full Details on Shutterfly](https://pack299sandiego.shutterfly.com/22) for virtual meeting login info. Prosptive members can <a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Meeting info" title="Contact us">Email us</a> for more info.
 
 Upcoming Pack Events. Click drop down arrow in the upper right to select viewable calendars
 

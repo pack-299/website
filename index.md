@@ -11,13 +11,13 @@ layout: home
 # [Events](/events)
 # Covid Update
 In 2020 we are still experimenting on how to handle the ever changing regulations and rules for meetings and events.
+We had our first successful pack virtual meeting Sept 8, 2020.
 
 Dens **can have** in person meetings as long as they are outdoors, with masks and hand sanitizer.
 Each Den may have their own combination of in person and virtual meetings.
 
-Pack meetings will start the school year with virtual events the second Tuesday of each month at 6:00pm during the school year.
-
-**Sept 8, 2020** 6:00pm will be the first virtual Pack Meeting
+Pack meetings are the second Tuesday of each month at 6:00pm during the school year.
+<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for the latest info.
 
 # Membership
 
@@ -28,7 +28,7 @@ Pack meetings will start the school year with virtual events the second Tuesday 
 Grades K-5 all genders are welcomed to join our Pack.
 Kindergarten-age youth can join as [Lions](https://www.sdicbsa.org/Programs/LionProgram.php)
 
-Middle School and above can look to [Troop 299](http://troop299sd.com/)
+Older Middle and High School youth can look to [Troop 299](http://troop299sd.com/)
 
 [Why Join Scouting Information](https://i9peu1ikn3a16vg4e45rqi17-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/512-73520-Welcome-New-CS-Family_WEB_FPDF.pdf)
 
