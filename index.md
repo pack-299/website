@@ -6,8 +6,6 @@ layout: home
 ---
 ![Scout Me In](bs_img/CubsBCCover.jpg)
 
-# [Popcorn Fundraising](/popcorn.html)
-![Image](bs_img/PopCorn2020.png)
 # [Events](/events)
 # Covid Update
 In 2020 we are still experimenting on how to handle the ever changing regulations and rules for meetings and events.
@@ -17,13 +15,11 @@ Dens **can have** in person meetings as long as they are outdoors, with masks an
 Each Den may have their own combination of in person and virtual meetings.
 
 Pack meetings are the second Tuesday of each month at 6:00pm during the school year.
-<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for the latest info.
+<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for the latest info and meeting login info.
 
 # Membership
 
 **Potential new members** are encouraged to meet the Pack and Dens and learn about upcoming activities.
-
-**Sept 22, 2020 Virtual/Zoom** New Cub Scout Family Orientation
 
 Grades K-5 all genders are welcomed to join our Pack.
 Kindergarten-age youth can join as [Lions](https://www.sdicbsa.org/Programs/LionProgram.php)
