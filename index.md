@@ -20,7 +20,7 @@ layout: home
 Pack 299 meets on the first Tuesday of each month at 6:00 pm during the 2022 school year.
 
 For additional information please contact Pack 299 at
-<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">info@pack299sandiego.org</a>.
+<a href="mailto:pack299sandiego@gmail.com?Subject=Pack 299 Info" title="Contact us">pack299sandiego@gmail.com</a>.
 
 Meetings are held at [Clairemont Covenant Church](https://www.clairemontcov.org/) 5255 Mt. Ararat Dr., San Diego, CA  92111
 
@@ -39,7 +39,7 @@ Middle School and High School youth are encouraged to contact either Scout [Troo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wUZ_yeY9qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="mailto:info@pack299sandiego.org?Subject=Pack 299 Info" title="Contact us">Email us</a> for more info.
+Email us <a href="mailto:pack299sandiego@gmail.com?Subject=Pack 299 Info" title="Contact us">pack299sandiego@gmail.com</a> for more info.
 
 ## External Links
 
