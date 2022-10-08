@@ -17,7 +17,7 @@ layout: home
 
 # [Events](/events)
 
-Pack 299 meets on the first Tuesday of each month at 6:00 pm during the 2022 school year.
+Pack 299 meets on the first Tuesday of each month at 6:30 pm during the 2022 school year.
 
 For additional information please contact Pack 299 at
 <a href="mailto:pack299sandiego@gmail.com?Subject=Pack 299 Info" title="Contact us">pack299sandiego@gmail.com</a>.
@@ -43,7 +43,7 @@ Email us <a href="mailto:pack299sandiego@gmail.com?Subject=Pack 299 Info" title=
 
 ## External Links
 
-[Online Registration](https://beascout.scouting.org/list/?zip=92117&program%5B0%5D=pack&cubFilter=all&miles=10&unitID=249742) to fill in info online. Click the "Apply Now" button and then the "Create Account" button on the my.scouting.org website.
+[Online Registration](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-049paa0299) to fill in info online. Click the Youth or Adult "Start" button and follow the prompts.
 
 [Shutterfly](https://pack299sandiego.shutterfly.com) is used for private Pack/Den communications
 
