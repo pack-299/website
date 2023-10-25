@@ -4,9 +4,10 @@ title: Slide Show Photos
 permalink: /photos/
 ---
 <p>
-    Our scouts love to see themselves in action up on the big screen. Submit photos of your Den activities to see your scouts in an upcoming slideshow.
+    Our scouts love to see themselves in action up on the big screen. Submit photos from your Den, or Pack activities to see your scouts in an upcoming slideshow.
     <br><br>
-    <strong>CLICK HERE</strong> to Upload Your Photos Now<br>
+     <strong><a href="https://docs.google.com/forms/d/1OrUmm6w6WyGMXIZK6uuq-RIoD81fBR6gQ995Hn197i8/edit" target="_blank">CLICK HERE</a></strong> to Upload Your Photos Now
+    <br>
     <br>
     <strong>Pro Tips</strong>: <br>
     <ul>
