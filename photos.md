@@ -3,7 +3,7 @@ layout: page
 title: Slide Show Photos
 permalink: /photos/
 ---
-    Our scouts love to see themselves in action up on the big screen. Submit photos of your Den activities to see your scouts in an upcoming slideshow.
+    <p>Our scouts love to see themselves in action up on the big screen. Submit photos of your Den activities to see your scouts in an upcoming slideshow.
     
     <br>
     <br>
@@ -15,7 +15,7 @@ permalink: /photos/
     <li>Upload highest quality/resolution images you can</li>
     <li>Use “portrait” mode on your camera/phone for a dramatic image with a blurred background</li>
     <li>Group photos are more fun!</li>
-</ul>
+</ul></p>
 <br>
 
 <h1>Slide Show Videos</h1>
