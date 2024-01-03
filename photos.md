@@ -3,10 +3,43 @@ layout: page
 title: Slide Show Photos
 permalink: /photos/
 ---
+
+<style>
+table.BTN {
+  border: 4px solid #ffa500;
+  background-color: #FFFFFF;
+  width: 60%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.BTN td, table.BTN th {
+  padding: 10px 10px;
+}
+</style>
+
 <p>
     Our scouts love to see themselves in action up on the big screen. Submit photos from your Den, or Pack activities to see your scouts in an upcoming slideshow.
     <br><br>
-     <strong><a href="https://forms.gle/9QGj4td5wRwpYHr89" target="_blank">CLICK HERE</a></strong> to Upload Your Photos Now
+	
+<table class="BTN">
+	<tbody>
+		<tr>
+			<td>
+				<table border="0">
+					<tbody>
+						<tr>
+							<td>
+								<a href="https://forms.gle/9QGj4td5wRwpYHr89" target="_blank"><img src="https://www.pack299sandiego.org/bs_img/icon_upload.png" alt=""/></a>
+							</td>
+							<td>
+								<strong><a href="https://forms.gle/9QGj4td5wRwpYHr89" target="_blank">CLICK HERE</a></strong> to Upload Your Photos Now
+							</td>
+						</tr>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
     <br>
     <br>
     <strong>Pro Tips</strong>: <br>
