@@ -3,10 +3,38 @@ layout: page
 title: Slide Show Photos
 permalink: /photos/
 ---
+
+<style>
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ede6b2;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffc226 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:2px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:8px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ffc226 5%, #ffec64 100%);
+	background-color:#ffc226;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+</style>
 <p>
     Our scouts love to see themselves in action up on the big screen. Submit photos from your Den, or Pack activities to see your scouts in an upcoming slideshow.
     <br><br>
-     <strong><a href="https://forms.gle/9QGj4td5wRwpYHr89" target="_blank">CLICK HERE</a></strong> to Upload Your Photos Now
+		<a href="https://forms.gle/9QGj4td5wRwpYHr89" class="myButton" target="_blank">CLICK HERE</a><strong> to Upload Your Photos Now</strong>
     <br>
     <br>
     <strong>Pro Tips</strong>: <br>
