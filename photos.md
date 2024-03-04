@@ -49,6 +49,8 @@ permalink: /photos/
 
 <h1>Slide Show Videos</h1>
 
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/February-2024/43254e817249831659c00aedefe663ac7687d8d5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/January-2024-03/3add91817a51dc4e7bd85aef1e2511560b078547" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/Pack_299_December_2023_Lores/9f7c28e9103e43083e2fa6e3c674a61dfe33e18e" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
