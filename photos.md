@@ -49,6 +49,8 @@ permalink: /photos/
 
 <h1>Slide Show Videos</h1>
 
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/September_2024/b48c41b704724de215b6de9c88c8eb89f43f9288" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/Pack-299_May_2024_2/7cf4282d0edb263d05b332dce772ca4a22785e55" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/Pack_299_April-2024_2/c2113dca1776b9b036142b737c973dd5054a3e54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
