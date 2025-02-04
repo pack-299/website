@@ -48,6 +48,10 @@ permalink: /photos/
 <br>
 
 <h1>Slide Show Videos</h1>
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/February-2025-720p/8dc7ad46882704d3ec3d5aba3c25ff412c5a4961" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/January-2025/4499f501f313ea53d3aff2d38c28a6d56588dbae" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/December_2024/7749820eaddab280b4e175cb86383645a7dffd38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/November_2024-02_LoRes/487150592f1a1af20903d378f301253ed123bacf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
