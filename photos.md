@@ -48,6 +48,8 @@ permalink: /photos/
 <br>
 
 <h1>Slide Show Videos</h1>
+<div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/May_2025/ba7346116a7781c8a0352a0376160291ade3f568" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/April_2025/e903d7b3c6171a897a0d18e4f494e0a61e4cfd4f" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/Pack_299-March_2025/3894185d1993c8484a9b8b054fe94de07744267a" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
@@ -105,3 +107,5 @@ permalink: /photos/
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/Den_6_AOL-slideshow/4acf4a80725b07421753eeddaea7979579eae99c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
 
 <div style="padding-bottom: 56.25%; position: relative;"><iframe width="100%" height="100%" src="https://odysee.com/$/embed/November22/971c9016497a68ada0b4b50d032e789ded7548a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"  style="position: absolute; top: 0px; left: 0px; width: 90%; height: 90%;"><small>Powered by <a href="https://embed.tube/embed-code-generator/odysee/">odysee embed</a> generator</small></iframe></div>
+
+<img src="https://www.pack299sandiego.org/Loading2.gif" width="350" height="150" alt=""/>
